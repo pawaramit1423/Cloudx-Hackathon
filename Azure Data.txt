@@ -1,0 +1,7 @@
+Project ID :- https://cloudxhackathon.cognitiveservices.azure.com/
+
+cv key :- f843dd0d608c4c258b947d82b1d4d198
+
+cv endpoint :- 7404f55a-0289-4f7f-9652-b4dbc14c8589
+
+name :- Currency Detection
